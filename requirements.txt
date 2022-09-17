@@ -1,0 +1,6 @@
+geopy
+SpeechRecognition
+PyAudio
+wikipedia
+pyttsx3
+pyjokes
