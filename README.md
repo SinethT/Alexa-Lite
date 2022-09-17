@@ -15,7 +15,7 @@
 <br>
 </br>
 
-***You should start your voice command by calling "Alexa".***
+***\*You should start your voice command by calling "Alexa".***
 > E.g. "**Alexa,** Tell me a joke."
 
-***You should need an internet connection to use 'Alexa Lite'.***
+***\*You should need an internet connection to use 'Alexa Lite'.***
