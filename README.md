@@ -1,4 +1,4 @@
-# Alexa Lite
+# Alexa Lite <img align="right" width="100" height="100" src="https://i.postimg.cc/W36q2r90/Alexa-Lite.png">
 #### Video Demo: <URL HERE>
 #### Description:
   
@@ -28,7 +28,7 @@
 </br>
 
 
-***\*You should start your voice command by calling "Alexa".***
-> E.g., "**Alexa,** Tell me a joke."
+***\*You should start your voice command by calling "Alexa".*** 
+> E.g., "**Alexa,** Tell me a joke." <img align="right" src="https://www.python.org/static/community_logos/python-powered-w-140x56.png">
 
 ***\*You should need an internet connection to use 'Alexa Lite'.***
