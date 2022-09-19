@@ -29,6 +29,6 @@
 
 
 ***\*You should start your voice command by calling "Alexa".*** 
-> E.g., "**Alexa,** Tell me a joke." <img align="right" src="https://www.python.org/static/community_logos/python-powered-w-140x56.png">
+> E.g., "**Alexa,** Tell me a joke." <a href="https://www.python.org/"><img align="right" src="https://www.python.org/static/community_logos/python-powered-w-140x56.png"></a>
 
 ***\*You should need an internet connection to use 'Alexa Lite'.***
