@@ -9,7 +9,7 @@
   
   - `project.py` - Includes the program.
   - `test_project.py` - Includes the test functions (works with [pytest](https://pytest.org/)).
-  - `requirements.txt` - Includes the required python modules ([pip](https://pip.pypa.io/) requirements).
+  - `requirements.txt` - Includes the required python libraries ([pip](https://pip.pypa.io/) requirements).
   - `README.md` - Includes the documentation.
 
 
