@@ -1,4 +1,4 @@
-# Alexa Lite <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/103297183/190986848-85033ecc-ab14-4974-b3a6-9fd2420362ab.png">
+# Alexa Lite <a href="https://github.com/SinethT/Alexa-Lite"><img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/103297183/190986848-85033ecc-ab14-4974-b3a6-9fd2420362ab.png"></a>
 #### Video Demo: <URL HERE>
 #### Description:
   
